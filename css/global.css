@@ -1,0 +1,32 @@
+.text-center{
+    text-align: center;
+}
+
+.heading-small{
+    font-size:1.25rem;
+}
+.heading-medium{
+    font-size: 1.5rem;
+}
+.heading-big{
+    font-size: 1.75rem;
+}
+.text-big{
+    font-size: 1.5rem;
+}
+.text-medium{
+    font-size: 1rem;
+}
+
+.text-small{
+    font-size: 0.8rem;
+}
+
+.bg-pink{
+    background-color: #c2185b  !important;
+    color:#fff !important;
+}
+
+.text-pink{
+    color:#c2185b;
+}
